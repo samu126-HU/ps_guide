@@ -22,6 +22,7 @@
 ------------
 8. Ha van már PS+-os játék letöltve, jelentkezz ki ebből a fiókból, majd használd a sajátod.
 Ha nincs: Ezen a fiókon indítsd el a letöltést a játékhoz, majd lépj át a sajátodba.
+------------
 ![Power](https://i.imgur.com/R38kdPB.jpg "Power")
 ------------
 ![Log Out of PS4](https://i.imgur.com/mnpaBr3.jpg "Log Out of PS4")
